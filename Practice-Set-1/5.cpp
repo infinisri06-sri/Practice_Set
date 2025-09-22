@@ -1,4 +1,4 @@
-gffvf#include<iostream>fg
+#include<iostream>
 using namespace std;
 int main()
 {
